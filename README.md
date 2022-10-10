@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TinTin Winata</h1>
+<h1 align="center">TinTin Winata, Welcome to my Profile 💖</h1>
 <h3 align="center">Currently working on Binus University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tintinwinata&label=Profile%20views&color=0e75b6&style=flat" alt="tintinwinata" /> </p>
