@@ -1,5 +1,5 @@
 <h1 align="center">TinTin Winata, Welcome to my Profile 💖</h1>
-<h3 align="center">Currently working on <a href="https://www.cynapse.ai/">Cynapse</a></h3>
+<h3 align="center">Currently working on <a href="https://www.cynapse.ai/" target="_blank">Cynapse</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tintinwinata&label=Profile%20views&color=0e75b6&style=flat" alt="tintinwinata" /> </p>
 
